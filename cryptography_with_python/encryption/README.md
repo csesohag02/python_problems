@@ -6,10 +6,13 @@ Create an encrypt function which takes two parameters : text and shift number. T
 
 
 ### Example Input
+```
 Enter your message: Hello World! 
-
 Enter the shift number: 4
+```
 
 
 ### Example Output
-Your encrypted message : Lipps$[svph%
+```
+Your encrypted message: Lipps$[svph%
+```
